@@ -1,4 +1,4 @@
-name: 'Testes Unitários Manuais'
+name: 'Testes Unitários Agendados'
 
 on:
   schedule:
